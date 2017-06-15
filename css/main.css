@@ -125,3 +125,12 @@ footer{
 	text-align: center;
 	font-family: 'Open Sans Condensed', sans-serif;
 }
+
+footer img{
+	height: 3%;
+	width: 3%;
+}
+
+footer ul{
+	list-style-type: none;
+}
