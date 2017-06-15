@@ -24,6 +24,7 @@ header{
 header h1{
 	font-family: 'Roboto Mono', monospace;
 	color:white;
+	text-align: center;
 }
 
 
@@ -40,7 +41,9 @@ header h1{
 
 nav{
 	background:#00305d;
+	text-align: center;
 }
+
 
 
 /*
@@ -55,7 +58,7 @@ section{
 }
 
 .blog-post{
-	
+	text-align: center;
 }
 
 
@@ -87,4 +90,6 @@ section{
 footer{
 	margin-left: 2em;
 	margin-right: 2em;
+	text-align: center;
+	font-family: 'Open Sans Condensed', sans-serif;
 }
