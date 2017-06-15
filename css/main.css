@@ -1,4 +1,45 @@
+/*
+################
+  Body
+################
+*/
+
 body{
 
 	background: #ccc;
 }
+
+
+/*
+################
+  Header
+################
+*/
+header{
+	margin-left: 2em;
+	margin-right: 2em;
+}
+
+
+
+/*
+################
+  Navigation
+################
+*/
+
+#header1
+{
+	background-color:#024d93;
+}
+
+nav{
+	background:#00305d;
+}
+
+
+/*
+################
+  Navigation
+################
+*/
