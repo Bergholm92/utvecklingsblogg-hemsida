@@ -24,8 +24,12 @@ header{
 header h1{
 	font-family: 'Roboto Mono', monospace;
 	color:white;
+
 	text-align: center;
 }
+
+
+
 
 
 /*
@@ -40,9 +44,11 @@ header h1{
 }
 
 nav{
+
 	background:#00305d;
 	text-align: center;
 	font-weight: bolder;
+
 }
 
 nav ul{
@@ -50,15 +56,22 @@ nav ul{
 }
 
 nav ul a{
+
 	text-decoration: none;
+	
 }
 
+
+#selectednav{
+	color:white;
+}
 
 
 nav a:visited{
 	color:black;
 }
 nav a:hover{
+
 	color:white;
 }
 
