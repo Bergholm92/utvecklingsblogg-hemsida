@@ -67,7 +67,7 @@ nav ul a{
 }
 
 
-nav a:visited{
+nav a:visited, nav a{
 	color:black;
 }
 nav a:hover{
@@ -107,7 +107,8 @@ section{
 
 .blogcontent{
 	font-weight: normal;
-	font-family: 'Open Sans Condensed', sans-serif; 
+	font-family: 'Open Sans Condensed', sans-serif;
+
 }
 
 
