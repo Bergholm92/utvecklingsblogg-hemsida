@@ -130,3 +130,7 @@ footer img{
 	height: 3%;
 	width: 3%;
 }
+
+footer ul{
+	list-style-type: none;
+}
